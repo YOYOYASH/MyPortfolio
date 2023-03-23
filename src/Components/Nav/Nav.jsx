@@ -3,7 +3,7 @@ import {AiOutlineHome} from 'react-icons/ai'
 import {AiOutlineUser} from 'react-icons/ai'
 import {BiBook} from 'react-icons/bi'
 import {MdOutlineConnectWithoutContact} from 'react-icons/md'
-import './nav.css'
+import './Nav.css'
 import { useState } from 'react'
 
 function Nav() {

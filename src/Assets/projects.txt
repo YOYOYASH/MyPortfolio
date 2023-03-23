@@ -1,0 +1,36 @@
+{
+id:1,
+image:IMG1,
+title:'NewsAdda:Your goto place for everyday news',
+github:'https://github.com/YOYOYASH/NewsAdda.git'
+},
+{
+id:1,
+image:IMG2,
+title:'File Management System',
+github:'https://github.com/YOYOYASH/FileManagementSystem.git'
+},
+{
+id:1,
+image:IMG3,
+title:'My Personal Portoflio',
+github:'https://github.com/YOYOYASH/MyPortfolio.git'
+},
+{
+id:1,
+image:IMG4,
+title:'FakeKart:The Shopping Site',
+github:'https://github.com/YOYOYASH/FakeKart.git'
+},
+{
+id:1,
+image:IMG5,
+title:'ChatBuddies: Chat With Your Friends',
+github:'https://github.com/YOYOYASH/ChatBuddies.git'
+},
+{
+id:1,
+image:IMG6,
+title:'Budget Tracker:Your Savings and Expenses',
+github:'https://github.com/YOYOYASH/Budget-Tracker.git'
+}
